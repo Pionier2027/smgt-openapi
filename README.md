@@ -1,0 +1,2 @@
+# smgt-openapi
+SMGTサービスのOpenAPI
